@@ -16,4 +16,6 @@ The files uploaded corresponds to: -
 > The files are being uploaded once the work is finished. 
 >
 >More files will be uploaded once the work for other topics is completed.
+>
+>Notebooks are from Google Colab, hence a mounted drive might appear.
 
