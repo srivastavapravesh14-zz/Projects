@@ -9,7 +9,7 @@ The files uploaded corresponds to: -
 2. Convolutional Neural Network Model.
 3. LSTM model for stock price predictions.
 4. Self Organizing Maps
-5. Autoencoders and Boltzman Machine
+5. Autoencoders.
 
 
 > #### Note
