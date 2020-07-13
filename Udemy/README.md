@@ -5,11 +5,11 @@ The projects done are part of the course **"Deep Learning A-Z™: Hands-On Artif
 
 The files uploaded corresponds to: -
 
-1. Artificial Neural Network for Binary classification problem.
-2. Convolutional Neural Network Model.
-3. LSTM model for stock price predictions.
-4. Self Organizing Maps
-5. Autoencoders.
+* Artificial Neural Network for Binary classification problem.
+* Convolutional Neural Network Model.
+* LSTM model for stock price predictions.
+* Self Organizing Maps
+* Autoencoders.
 
 
 > #### Note
