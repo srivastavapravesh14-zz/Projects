@@ -6,9 +6,9 @@ To test this program, download the folder and run gui.py file.
 >Following packages needs to be installed to test this code.
 
 >-numpy
->-pandas
->-tkinter
->-seaborn
+> -pandas
+> -tkinter
+> -seaborn
 >
 
 
