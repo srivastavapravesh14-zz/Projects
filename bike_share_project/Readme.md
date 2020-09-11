@@ -1,4 +1,4 @@
-###**Data Analysis Project***
+### **Data Analysis Project***
 This Project is inspired from Udacity Nanodegree course project. 
 An intractive GUI has been created for giving analytics of the data files. This project is not a generic code for all the dataset, instead it has been created for three specific [dataset](https://github.com/sukantamaikap/bikeshare).
 
