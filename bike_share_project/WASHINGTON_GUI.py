@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import font as tkFont 
 from computed_statistics import Stats 
 from tkinter import messagebox
+import matplotlib.pyplot as plt
 
 class Washington:
     def popular_time(self):
